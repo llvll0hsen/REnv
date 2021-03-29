@@ -16,3 +16,7 @@ install.packages("LMERConvenienceFunctions", repos = "https://cloud.r-project.or
 install.packages("optimx", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("sjPlot", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("ggeffects", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("stargazer", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("corrplot", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("groupdata2", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("MuMIn", repos = "https://cloud.r-project.org/", dependencies=TRUE)
